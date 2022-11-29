@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
-        <title>Example</title>
+        <title>ちんちん</title>
     </head>
     <body>
         <h1>
